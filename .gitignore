@@ -1,0 +1,4 @@
+*.log
+TEST*
+*.xml
+*.jar
